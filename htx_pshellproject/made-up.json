@@ -1,0 +1,40 @@
+{
+    "DlcName": "Classic_Aircraft",
+    "Dependencies": [
+                    "Runway",
+                    "Biplanes",
+                    "Zeppelins"
+                    ],
+    "Versions": [
+        {
+        "Version": "0.1.0",
+        "DeployedOn": "2022-10-03T09:32:11-06:00"
+        },
+        {
+        "Version": "0.1.1",
+        "DeployedOn": "2022-10-10T20:09:08-06:00"
+        },
+        {
+        "Version": "1.0.1",
+        "DeployedOn": "2023-02-14T14:14:14-06:00"
+        },
+        {
+        "Version": "0.2.0",
+        "DeployedOn": "2022-10-24T14:44:55-06:00"
+        },
+        {
+        "Version": "0.3.0",
+        "DeployedOn": "2022-11-11T12:01:38-06:00"
+        },
+        {
+        "Version": "1.0.0",
+        "DeployedOn": "2023-01-14T13:13:13-06:00"
+        }
+    ],
+    "ClientRequirements": {
+        "Version": {
+            "GreaterThan": "1.1.0",
+            "LessThan": "3.0.0"
+        }
+    }
+}
